@@ -7,8 +7,10 @@
   }
   
 
+/* heading blocks, flaots , margins color font changes   */
 
-.header { /* heading blocks, flaots , margins color  */
+.header { 
+    
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -47,7 +49,7 @@ body {
 
     background-color: #d9dcd6;
   }
-
+/*   font changes and images */
 a {
   color: #ffffff;
   text-decoration: none;
@@ -81,7 +83,7 @@ p {
   display: inline-block;
   margin-left: 20px;
 }
- /*  pictures and images adjustments */
+   /*Styling for benefits  pictures and images adjustments */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -140,7 +142,7 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
-/*  headers for main containers */
+/*   styleing headers for main containers */
 
 .search-engine-optimization {
   margin-bottom: 20px;
@@ -197,7 +199,7 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
+/*  styling the footer */
 .footer {
   padding: 30px;
   clear: both;
